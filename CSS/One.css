@@ -1,0 +1,16 @@
+<!--background-color: lightblue;-->
+h1,h2,h3{
+    color: black;
+}
+body{
+    background-image: url('https://images.ctfassets.net/1fvlg6xqnm65/3ANufTwj3pprDo1tau0ysq/2f7641196627d6c3e17611ba2c9c2d13/Slider.png?w=3840&q=80');
+    background-size: cover;3
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
